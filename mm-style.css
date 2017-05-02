@@ -1,0 +1,85 @@
+#hero { position: relative;
+    width: 100vw;
+    margin-bottom: -1vw;}
+
+nav ul {list-style-type: none;
+    display: table;
+    margin: 0;
+    padding: 0;
+    border: none; }
+    
+nav li {float: left;}
+
+nav a:link {display:flex;
+    font-size: 2.45vw;
+    padding: 1vw;
+    background-color:#355834;
+    color: #c7e8f3;
+    text-decoration: none; }
+
+body { 
+    position: relative;
+    font-size: 16pt;
+    color: #355834;
+    background-color: #c7e8f3;
+    font-family: cambria, georgia, serif;
+    margin: 0;}
+
+h1 {color: #355834; 
+    Text-transform: uppercase;
+    max-width: 100%;
+    text-align: center;
+    font-size: 6vw;
+    margin-bottom: 0;}
+
+h2 {color: #355834;
+    max-width: 100%;
+    text-align: center;
+    font-size: 4vw;}
+
+a:link {color:#18314f;}
+a:visited {color:#18314f;}
+a:hover {color:#8bbeb2;}
+
+fieldset {background-color: #c7e8f3;
+            border: none;
+            margin-left:5%;
+            margin-right: 5%;
+            padding-top: 0;}
+
+.img-circle {border-radius: 50%; 
+            max-width: 35%;
+            margin-right: 5%; 
+            display: inline-block;}
+
+.teen {display: inline-block;
+    align-items: left;
+    margin-bottom: 5%}
+          
+
+#mscr {max-width: 25%;}
+#wheelhouse {max-width: 30%;}
+#uw {max-width: 25%;}
+#monroe {max-width: 25%;}
+#sector {max-width: 40%;}
+#wheelhousestudio {max-width: 35%;
+                    margin: 5%;}
+#lifestudio {max-width: 35%;
+                    margin: 4%;}
+#atwoodstudio {max-width: 37%;
+                    margin: 5%;}
+#monroestudio {max-width: 35%;
+                    margin: 5%;}
+#monroeteen {max-width: 40%;}
+#teenBubbler {max-width: 45%;}
+#sugoiteen {max-width: 60%;}
+#bare {max-width: 40%;}
+
+textarea {width: 90vw;}
+
+#footer{
+  padding:30px 0px;
+  text-align:center;
+  background:#8bbeb2;}
+
+
