@@ -40,6 +40,7 @@ h2 {color: #355834;
     font-size: 4vw;}
 
 a:link {color:#18314f;}
+a: visited {color: #18314f; }
 a:hover {color:#8bbeb2;}
 
 fieldset {background-color: #c7e8f3;
